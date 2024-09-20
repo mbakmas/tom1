@@ -1,9 +1,9 @@
 {
-    "interval": 3,
-    "play_game": false,
+    "interval": 7,
+    "play_game": true,
     "game_point": {
-        "low": 100,
-        "high": 150
+        "low": 260,
+        "high": 360
     },
     "additional_time": {
         "min": 60,
